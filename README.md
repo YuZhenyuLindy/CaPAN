@@ -25,17 +25,17 @@ Adversarial domain adaptation has achieved impressive performances for unsupervi
 
 ## Bibtex
 To cite the paper, use the following: 
-@inproceedings{yuandwang2024icme,
+```@inproceedings{yuandwang2024icme,
   title={CaPAN: Class-aware Prototypical Adversarial Networks for Unsupervised Domain Adaptation},
   author={Zhenyu Yu, Pei Wang},
   booktitle={Proceedings of the IEEE ICME},
   pages={xx--xx},
   year={2024}
-}
+}```
 
 
 ## Acknowledgment
-Some codes is mainly based on following repositories. Thanks for their authors.
+Some codes are mainly based on following repositories. Thanks for their authors.
 * [SCDA](https://github.com/BIT-DA/SCDA.git)
 * [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library.git)
 
