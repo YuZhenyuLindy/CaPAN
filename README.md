@@ -31,7 +31,8 @@ To cite the paper, use the following:
   booktitle={Proceedings of the IEEE ICME},
   pages={xx--xx},
   year={2024}
-}```
+}
+```
 
 
 ## Acknowledgment
