@@ -13,7 +13,9 @@ Adversarial domain adaptation has achieved impressive performances for unsupervi
 
 
 ## Prepare
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
 
 ## Datasets
