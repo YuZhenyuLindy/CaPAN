@@ -5,7 +5,7 @@
 
 This repo is the official PyTorch implementation of "CaPAN: Class-aware Prototypical Adversarial Networks for Unsupervised Domain Adaptation".
 
-<div align=center><img src="./figures/Figure1.png" width="100%"></div>
+<div align=center><img src="./CaPan_ICME_2024_Poster_00.png" width="100%"></div>
 
 ## Abstract
 
@@ -28,12 +28,13 @@ pip install -r requirements.txt
 ## Bibtex
 If you find this work useful for your research, please cite: 
 ```bibtex
-@inproceedings{yuandwang2024icme,
+@inproceedings{yu2024capan,
   title={CaPAN: Class-aware Prototypical Adversarial Networks for Unsupervised Domain Adaptation},
-  author={Zhenyu Yu, Pei Wang},
-  booktitle={Proceedings of the IEEE ICME},
-  pages={xx--xx},
-  year={2024}
+  author={Yu, Zhenyu and Wang, Pei},
+  booktitle={2024 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
