@@ -1,5 +1,6 @@
 # ICME2024 - CaPAN: Class-aware Prototypical Adversarial Networks for Unsupervised Domain Adaptation
 
+[![Paper](https://img.shields.io/badge/arXiv-2501.08505-red)](https://ieeexplore.ieee.org/abstract/document/10687425) [![Paper](https://img.shields.io/badge/PDF-Poster-blue)](https://github.com/YuZhenyuLindy/Yuan/blob/main/CaPan_ICME_2024_Poster_00.png) [![PPT](https://img.shields.io/badge/PDF-Slides-orange)](https://github.com/YuZhenyuLindy/Yuan/blob/main/CaPAN_ICME_2024.pdf) [![YouTube](https://img.shields.io/badge/Video-YouTube-red)](https://youtu.be/gDCH2qcA00M)
 
 # CaPAN
 
