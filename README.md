@@ -25,6 +25,10 @@ pip install -r requirements.txt
 * [Office-Home](https://www.hemanthdv.org/officeHomeDataset.html)
 * [VisDA2017](http://ai.bu.edu/visda-2017/)
 
+## Contact
+For any questions, feel free to reach out:
+
+📧 Email: Zhenyu Yu (yuzhenyuyxl@foxmail.com), Pei Wang (peiwang0518@163.com)
 
 ## Bibtex
 If you find this work useful for your research, please cite: 
